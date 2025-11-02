@@ -1,5 +1,4 @@
-# Cell: Create a comprehensive README.md
-readme_content = """# 🎯 Customer Segmentation Analysis with RFM & Statistical Validation
+
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
