@@ -1,0 +1,4 @@
+Cluster,Size,Size_Percentage,Avg_Recency,Avg_Frequency,Avg_Monetary,Description,Segment_Name
+0,2295,39.043892480435524,91.64444444444445,2.8514161220043572,816.0875620915033,Recent but moderate value customers,Loyal Customers
+1,1752,29.806056481796528,60.48687214611872,15.507990867579908,8271.127226598173,"Best customers: recent, frequent, high spenders",Champions
+2,1831,31.150051037767952,473.5838339705079,1.7777170944838885,552.0854243582742,Requires further investigation,Need Analysis

@@ -1,0 +1,6 @@
+,Recency,Recency,Recency,Recency,Frequency,Frequency,Frequency,Frequency,Monetary,Monetary,Monetary,Monetary,CustomerID
+,mean,std,min,max,mean,std,min,max,mean,std,min,max,count
+Segment_Name,,,,,,,,,,,,,
+At-Risk Customers,473.58,126.62,177,739,1.78,1.24,1,9,552.09,865.4,2.95,13916.34,1831
+Champions,60.49,88.88,1,632,15.51,21.01,2,398,8271.13,25658.58,489.54,580987.04,1752
+Loyal Customers,91.64,84.27,1,372,2.85,1.57,1,15,816.09,601.64,6.2,5416.32,2295
